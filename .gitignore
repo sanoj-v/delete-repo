@@ -42,4 +42,4 @@ testem.log
 Thumbs.db
 
 #MS-SSO Config Files
-public/environment/environment.ts
+/public/environment/environment.ts
