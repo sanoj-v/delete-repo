@@ -1,3 +1,3 @@
 const env = {
-    url: "one-login"
+    url: "microsoft-login"
 }
